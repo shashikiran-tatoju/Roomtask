@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  
+} 
+.form__div{
+  margin:20px 0px;
+}
+.form__lbltitle{
+  margin: 0px 50px;
+  width: 100px;
+}
+.form__decrementBtn{
+  margin: 0px 30px;
+}
+.form__incrementDiv{
+  margin: 0px 30px;
+}
+.form__lblValue{
+width: 100px; 
+}
+
+form{
+  margin: 0 auto;
+  width: 25%;
+  height: 250px;
+  background-color: antiquewhite;
+  border-radius: 5px;
+  padding: 25px 0px;
+}
